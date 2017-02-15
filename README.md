@@ -26,4 +26,4 @@ Les cours GitHub complets => https://services.github.com/on-demand/
 
 [=> tuto git Open Classroom](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git)
 
-[=> lien Maël SOULIER (prof Tournessol)](bit.ly/jmb-git)
+[=> lien Maël SOULIER (prof Tournessol)](https://bit.ly/jmb-git)
